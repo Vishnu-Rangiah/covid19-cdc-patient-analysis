@@ -1,5 +1,4 @@
-# sta160-final
-Covid 19 STA 160 Final
+# Covid19-CDC-Patient-Analysis
 
 1. Data Cleaning
 2. EDA
